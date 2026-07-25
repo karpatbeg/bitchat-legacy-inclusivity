@@ -1,1 +1,1 @@
-# BitChat-MeshFilter-Protocol
+# bitchat-legacy-inclusivity
